@@ -1,0 +1,225 @@
+{
+  "chapter": 7,
+  "data": [
+    {
+      "question": "Which of these attribute(s) in a system could be brought by computing infrastructure virtualization?",
+      "incorrect_answers": [
+        "Security",
+        "Dynamic behavior",
+        "Flexibility",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The physical system on which virtual machines run is called",
+      "incorrect_answers": [
+        "Host machine",
+        "Guest machine",
+        "Primary machine",
+        "Non-virtual machine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The software layer implementing virtualization is known as",
+      "incorrect_answers": [
+        "Operating system",
+        "Hypervisor",
+        "Application layer",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In server virtualization, the relationship between host machine and guest machine is",
+      "incorrect_answers": [
+        "Many-to-one",
+        "One-to-one",
+        "Many-to-many",
+        "One-to-many"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Is it possible to install operating system in a virtual machine?",
+      "incorrect_answers": [
+        "Yes",
+        "No",
+        "Sometimes",
+        "OS is not required in virtual machine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Type 1 hypervisors are installed over",
+      "incorrect_answers": [
+        "Physical resource",
+        "Host operating system",
+        "Virtual resource",
+        "Type 2 hypervisor"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Type 2 hypervisors are installed over",
+      "incorrect_answers": [
+        "Physical resource",
+        "Host operating system",
+        "Virtual resource",
+        "Type 1 hypervisor"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Operating systems and applications made for one computer architecture can be installed on some other architecture in",
+      "incorrect_answers": [
+        "Simple server virtualization",
+        "Simulation-based server virtualization",
+        "Complex server virtualization",
+        "Emulation-based server virtualization"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Guest operating systems remain unaware about they are running in virtual environment in",
+      "incorrect_answers": [
+        "Full virtualization",
+        "Para-virtualization",
+        "Operating system-level virtualization",
+        "Hardware-assisted virtualization"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Hypervisor dependent (modified) versions of guest operating systems are required in",
+      "incorrect_answers": [
+        "Full virtualization",
+        "Para-virtualization",
+        "Hardware-assisted virtualization",
+        "All of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Virtualization overhead of hypervisor is maximum in case of",
+      "incorrect_answers": [
+        "Full virtualization",
+        "Para-virtualization",
+        "Hardware-assisted virtualization",
+        "Equal for all"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Virtual machines running over a physical host do not have different operating systems in",
+      "incorrect_answers": [
+        "Full virtualization",
+        "Operating system-level virtualization",
+        "Para-virtualization",
+        "Hardware-assisted virtualization"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The most popular open-source hypervisor available in the market is",
+      "incorrect_answers": ["ESX", "ESXi", "Hyper-V", "Xen"],
+      "answer": 4
+    },
+    {
+      "question": "Process virtual machines are made to run",
+      "incorrect_answers": [
+        "Operating system",
+        "Operating system and applications",
+        "Some specific application",
+        "Any application"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Server virtualization creates scope for",
+      "incorrect_answers": [
+        "Speeding up servers",
+        "Fast installation of servers",
+        "Server portability",
+        "Both b & c"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Resource abstraction in cloud computing is implemented through",
+      "incorrect_answers": [
+        "Resource management",
+        "Resource virtualization",
+        "Object orientation",
+        "Remote access"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Virtual machine monitor (VMM) is the other name of",
+      "incorrect_answers": [
+        "Guest system",
+        "Host system",
+        "Host operating system",
+        "Hypervisor"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "In operating system level virtualization, different OS distributions of same kernel can be run in virtual servers.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Cloud computing IaaS services can be developed without implementing resource virtualization also.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following must be maintained to ensure security of virtualization?",
+      "incorrect_answers": [
+        "Hardening the hypervisor",
+        "Restricting physical access to host machine",
+        "Maintaining one function per VM",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The ‘single point’ in the ‘single point of failure problem’ of virtualization is",
+      "incorrect_answers": [
+        "Virtual machine",
+        "Guest OS",
+        "Host machine",
+        "VMM"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In ‘VM escape’, which among the following happens?",
+      "incorrect_answers": [
+        "Accessing guest OS by escaping VM",
+        "Evading security of VM to access VMM",
+        "Accessing host OS by escaping VM",
+        "Escaping security of VMM to access host"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Inactive virtualization machines may cause security threats to virtualization?",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "The benefits of infrastructure virtualization includes",
+      "incorrect_answers": [
+        "Better utilization of resources",
+        "Cost saving for computation",
+        "Easier capacity expansion",
+        "All of these"
+      ],
+      "answer": 4
+    }
+  ]
+}

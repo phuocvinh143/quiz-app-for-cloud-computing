@@ -1,0 +1,174 @@
+{
+  "chapter": 18,
+  "data": [
+    {
+      "question": "Portability enables the components to",
+      "incorrect_answers": [
+        "Communicate with other components",
+        "Move in other environments",
+        "Become light weight",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The interoperability is not applicable on which of the following?",
+      "incorrect_answers": [
+        "Application",
+        "Application platform",
+        "Data",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Portability and interoperability can be achieved by standardizing the format(s) of",
+      "incorrect_answers": [
+        "APIs",
+        "Data",
+        "Communication protocols",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Tell if the statement is ‘true’ or ‘false’. ‘IaaS stores raw data files. Portability is not applicable on the IaaS level data.’",
+      "incorrect_answers": ["True", "False"],
+      "answer": 2
+    },
+    {
+      "question": "Machine imaging helps in",
+      "incorrect_answers": [
+        "Hardening security of VM",
+        "recovering easier disaster Deploying of VM easily",
+        "Both a and b"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "JeOS is a part of",
+      "incorrect_answers": [
+        "Virtual appliance",
+        "Machine image",
+        "Both a and b",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Virtual appliance is one kind of software appliance. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Virtual appliances are useful because they provide",
+      "incorrect_answers": [
+        "More security",
+        "Ease of installation",
+        "Liberty from complex configuration",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Each virtual appliance is generally made to distribute",
+      "incorrect_answers": [
+        "One single application",
+        "At least two applications",
+        "Any number of applications",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Virtual appliances are distributed in which of these common packaging formats?",
+      "incorrect_answers": [
+        "Open virtual format",
+        "Open volatile format",
+        "Open virtualization format",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "OVF descriptor that contains metadata related to the OVF package is a",
+      "incorrect_answers": ["OVF file", "XML file", "VMDK file", "HTML file"],
+      "answer": 2
+    },
+    {
+      "question": "Formats of virtual disk images created by different machine virtualization vendors are",
+      "incorrect_answers": ["Same", "Different"],
+      "answer": 2
+    },
+    {
+      "question": "Which server virtualization vendor uses VMDK as format for capturing virtual disk images?",
+      "incorrect_answers": ["Oracle", "Microsoft", "Google", "VMware"],
+      "answer": 4
+    },
+    {
+      "question": "The OVA (Open Virtualization Appliance) format for supplying OVF package in a single archive file is a",
+      "incorrect_answers": ["Zip file", "Tar file", "Rar file", "Zipx file"],
+      "answer": 2
+    },
+    {
+      "question": "Use of some standard and common APIs by all cloud service vendors will increase",
+      "incorrect_answers": [
+        "Application portability",
+        "Application standard",
+        "Cost benefits of business",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The development of Open-source Simple Cloud API to improve portability of cloud applications was an initiative taken by",
+      "incorrect_answers": [
+        "Rackspace",
+        "Distributed Management Task Force (DMTF)",
+        "Cloud Security Alliance",
+        "Zend Technologies "
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The Simple Cloud API was developed to improve portability",
+      "incorrect_answers": [
+        "PHP applications",
+        "Java applications",
+        "Cloud applications",
+        "All applications"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Bundling virtual appliance in OVF package format helps",
+      "incorrect_answers": [
+        "To harden the security of VM",
+        "To increase application portability",
+        "To increase portability of platform",
+        "To market them easily"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which among the following organizations works towards promotion of interoperable standards for cloud applications?",
+      "incorrect_answers": [
+        "VMware",
+        "Distributed Management Task Force (DMTF)",
+        "Citrix",
+        "Cloud Security Alliance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The data, application or platform portability problems faced in cloud environment.",
+      "incorrect_answers": [
+        "It was not there in traditional environment",
+        "It is an unique problem for cloud",
+        "It was there in traditional environment also",
+        "The platform portability problem is new to cloud."
+      ],
+      "answer": 3
+    }
+  ]
+}

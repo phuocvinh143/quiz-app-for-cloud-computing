@@ -1,0 +1,111 @@
+{
+  "chapter": 13,
+  "data": [
+    {
+      "question": "Cloud storage is built upon",
+      "incorrect_answers": [
+        "Traditional file system",
+        "Cloud native file system",
+        "Both a and b",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In comparison with traditional storage system, the major difference(s) emerge while building cloud storage is",
+      "incorrect_answers": [
+        "Supporting scalability",
+        "Metering usages",
+        "Supporting multi-tenancy",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Cloud native storage file systems are actually virtual in nature. Is this true?",
+      "incorrect_answers": ["Yes", "No"],
+      "answer": 1
+    },
+    {
+      "question": "MapReduce framework was built to efficiently process unstructured data in parallel in",
+      "incorrect_answers": [
+        "Cloud environment",
+        "Centralized environment",
+        "Distributed environment",
+        "Non-cloud environment"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an open-source cloud file system?",
+      "incorrect_answers": ["GFS", "HDFS", "GlusterFS", "KFS"],
+      "answer": 2
+    },
+    {
+      "question": "Unmanaged cloud storages are actually managed by",
+      "incorrect_answers": [
+        "Storage provider",
+        "Storage consumer",
+        "None",
+        "Administrator"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Managed cloud storages are generally used by",
+      "incorrect_answers": [
+        "Managers",
+        "Big enterprises",
+        "Application Developers",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In unmanaged cloud storage user can install applications of his/her choice.",
+      "incorrect_answers": [
+        "Yes. Till the space permits.",
+        "No. They can install only specific applications.",
+        "Yes. If the privilege is given.",
+        "No. It comes with pre-installed applications."
+      ],
+      "answer": 4
+    },
+    {
+      "question": "For file hosting purpose, the type of cloud storage used is",
+      "incorrect_answers": [
+        "Managed storage",
+        "Unmanaged storage",
+        "Both a and b",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "There are cloud storage systems which are used to build cloud service and not offered to consumers as a service",
+      "incorrect_answers": [
+        "True",
+        "False. Cloud storage systems are built to offer as a service to consumers."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "MapReduce is a",
+      "incorrect_answers": [
+        "Storage model",
+        "Programming model",
+        "File system model",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Google Drive is a",
+      "incorrect_answers": [
+        "General purpose cloud storage",
+        "Cloud storage to be used by developers"
+      ],
+      "answer": 1
+    }
+  ]
+}

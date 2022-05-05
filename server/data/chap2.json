@@ -1,0 +1,85 @@
+{
+  "chapter": 2,
+  "data": [
+    {
+      "question": "The idea of cloud computing is entire new and surfaced at the beginning of the current century.",
+      "incorrect_answers": [
+        "True",
+        "False, the idea was there from long back",
+        "False, it didn’t materialize earlier for technical constraints",
+        "Both b and c"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The concept of computing as public utility was first presented by John McCarthy in the year",
+      "incorrect_answers": ["1960", "1970", "1961", "2000"],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is an important facilitator for emergence of distributed computing?",
+      "incorrect_answers": [
+        "The invention of personal computers",
+        "Emergence of distributed applications",
+        "Fast network communication",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "With which model of distributed computing, the idea of resource pool appeared?",
+      "incorrect_answers": [
+        "Cluster computing",
+        "Grid computing",
+        "Client-server computing",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is/are advantage(s) of grid computing over cluster model?",
+      "incorrect_answers": [
+        "Solution of the cluster head problem",
+        "Heterogeneous resource pool",
+        "Co-operation between multiple administrative domains",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The difficulty of maintaining mobility of application over heterogeneous resource pool was solved with",
+      "incorrect_answers": [
+        "Uniform system management policy",
+        "Resource virtualization",
+        "Clustering",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Web based system development has been benefited with the emergence of",
+      "incorrect_answers": ["Web 2.0", "Mashup", "SOA", "All of these"],
+      "answer": 4
+    },
+    {
+      "question": "Autonomic computing is a mean for making the management of computing infrastructure",
+      "incorrect_answers": [
+        "Automatic and faster",
+        "Automatic and intelligent",
+        "Automatic and cheaper",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cloud computing is result of the convergence of",
+      "incorrect_answers": [
+        "Grid computing and hardware virtualization",
+        "Web technology and SOA",
+        "High speed network and utility model",
+        "All of these"
+      ],
+      "answer": 4
+    }
+  ]
+}

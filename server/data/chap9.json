@@ -1,0 +1,105 @@
+{
+  "chapter": 9,
+  "data": [
+    {
+      "question": "Which of the following is advantage of dynamic scaling?",
+      "incorrect_answers": [
+        "Resource capacity can be increased during run-time",
+        "Resource capacity can be reduced during run-time",
+        "No ‘system restart’ is required after resource capacity change",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Dynamic scaling facility in cloud has been achieved based on",
+      "incorrect_answers": [
+        "Resource virtualization",
+        "Resource sharing",
+        "Dynamic resource provisioning",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Can dynamic scaling approach be manual?",
+      "incorrect_answers": ["Yes", "No"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the most fascinating feature of dynamic scaling in cloud computing?",
+      "incorrect_answers": [
+        "It is prompt",
+        "It is automatic",
+        "It is reversible",
+        "It is infinite"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Predictable load patterns in cloud computing are managed through",
+      "incorrect_answers": [
+        "Dynamic scaling strategy",
+        "Proactive scaling strategy",
+        "Reactive scaling strategy",
+        "Static scaling strategy"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "In cloud computing, auto-scaling boundaries are set for a scalable system to",
+      "incorrect_answers": [
+        "Make the scaling effective",
+        "Protect resources from external attack",
+        "Minimize cost",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Distributed computing system architecture is apt to scale",
+      "incorrect_answers": [
+        "Horizontally",
+        "Vertically",
+        "Both horizontally and vertically",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Infinite scalability can be achieved through the implementation of",
+      "incorrect_answers": [
+        "Reactive scaling",
+        "Proactive scaling",
+        "Horizontal scaling",
+        "Vertical scaling"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Better performance of a system indicates better scalability.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the primary factor to limit scalability?",
+      "incorrect_answers": [
+        "Cost of system management",
+        "Resource bottleneck",
+        "Growing number of users",
+        "Cost of resource components"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which type of scaling is more apt for distributed computing environment like cloud?",
+      "incorrect_answers": [
+        "Horizontal scaling",
+        "Vertical scaling",
+        "A mixture of horizontal and vertical scaling",
+        "It depends on the distributed computing architecture"
+      ],
+      "answer": 1
+    }
+  ]
+}

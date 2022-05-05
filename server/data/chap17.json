@@ -1,0 +1,98 @@
+{
+  "chapter": 17,
+  "data": [
+    {
+      "question": "Information privacy is actually a part of information security.",
+      "incorrect_answers": [
+        "True",
+        "False",
+        "Depends on situation",
+        "Both of them are same"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Generally, to store consumers’ data in encrypted form in the cloud means to preserve information",
+      "incorrect_answers": [
+        "Security",
+        "Privacy",
+        "Both security and privacy",
+        "None"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following causes challenge to privacy protection in cloud computing?",
+      "incorrect_answers": [
+        "Lack of awareness",
+        "Weak security implementation",
+        "Different legal systems",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "There can be strong security in a system without any privacy.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Does the compliance maintenance task is cloud service provider’s responsibility alone?",
+      "incorrect_answers": [
+        "Yes",
+        "No. Clients should also be alerted on this."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "IT auditing is done to check the",
+      "incorrect_answers": [
+        "Compliance issues",
+        "Security issues",
+        "Financial issues",
+        "Both a and b"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The IT audit report that is of more value for the cloud consumers is the",
+      "incorrect_answers": [
+        "System audit",
+        "Internal audit",
+        "External audit",
+        "Privacy audit"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Internal audit for compliance is done by service providers",
+      "incorrect_answers": [
+        "To gain confidence of shareholders",
+        "To gain confidence of consumers",
+        "To earn more revenue",
+        "To improve privacy of the system"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "‘R’ in the term GRC represents",
+      "incorrect_answers": [
+        "Reliability",
+        "Responsiveness",
+        "Risk",
+        "Recovery"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Privacy in information system is to maintain the secrecy of",
+      "incorrect_answers": [
+        "Stored data of clients",
+        "PII of clients",
+        "Financial information of clients",
+        "Name of clients"
+      ],
+      "answer": 2
+    }
+  ]
+}

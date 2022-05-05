@@ -1,0 +1,90 @@
+{
+  "chapter": 11,
+  "data": [
+    {
+      "question": "For which among the resource(s) the load balancing in computing is done?",
+      "incorrect_answers": ["Processor", "Storage", "Memory", "All of these"],
+      "answer": 4
+    },
+    {
+      "question": "In distributed computing environment, the load balancing is done for",
+      "incorrect_answers": [
+        "Servers",
+        "Network Switches",
+        "Storage",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Load balancing helps to implement the",
+      "incorrect_answers": [
+        "System over-utilization",
+        "System under-utilization",
+        "System scaling",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Static load balancing approach does not consider the existing states of systems. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Requests from clients in cloud environment first appear in",
+      "incorrect_answers": [
+        "Front-end node",
+        "Back-end node",
+        "Depends on type of request",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In load balancing, resource provisioning happens before VM provisioning. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 2
+    },
+    {
+      "question": "In which kind of load balancing, the feedback about existing load status are required?",
+      "incorrect_answers": ["Static", "Automatic", "Dynamic", "All of these"],
+      "answer": 3
+    },
+    {
+      "question": "Which among the following problem(s) may be caused by centralized load balancing?",
+      "incorrect_answers": [
+        "To many messages",
+        "Bottleneck",
+        "No feedback",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Class-aware load balancing algorithms are more critical in nature. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Session persistency in load balancing is maintained through",
+      "incorrect_answers": [
+        "In-memory session database",
+        "Cookies",
+        "None of these",
+        "Both a and b"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Improving application server’s performance by offloading computeintensive tasks is known as",
+      "incorrect_answers": [
+        "Task offloading",
+        "Performance tuning",
+        "Application acceleration",
+        "None of these"
+      ],
+      "answer": 3
+    }
+  ]
+}

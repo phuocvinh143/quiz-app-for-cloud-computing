@@ -1,0 +1,95 @@
+{
+  "chapter": 4,
+  "data": [
+    {
+      "question": "Which among the following is not an essential characteristic of NIST cloud model?",
+      "incorrect_answers": [
+        "Rapid elasticity",
+        "Multi-tenancy",
+        "Resource pooling",
+        "Broad network access"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "NIST definition of cloud computing was published in the year of",
+      "incorrect_answers": ["2007", "2009", "2011", "2013"],
+      "answer": 3
+    },
+    {
+      "question": "According to NIST definition, cloud computing is a",
+      "incorrect_answers": ["Model", "Technology", "Paradigm", "Revolution"],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following service can only be accessed by a restricted number of people?",
+      "incorrect_answers": [
+        "Public cloud",
+        "Community cloud",
+        "Private cloud",
+        "Both a & b"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which among the essential characteristics of cloud computing is not present in grid computing model?",
+      "incorrect_answers": [
+        "Rapid elasticity",
+        "On-demand service",
+        "Measured service",
+        "Both a & b"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Public cloud can’t be deployed on-premises.",
+      "incorrect_answers": ["False", "True"],
+      "answer": 2
+    },
+    {
+      "question": "Private cloud can be deployed on-premises. This statement is",
+      "incorrect_answers": ["False", "True"],
+      "answer": 2
+    },
+    {
+      "question": "Users’ control over cloud environment is maximum in",
+      "incorrect_answers": [
+        "Public cloud",
+        "Community cloud",
+        "Private cloud",
+        "Hybrid cloud"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Hybrid cloud is cheaper than private cloud. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following refers to the location and management of the cloud’s infrastructure?",
+      "incorrect_answers": [
+        "Application",
+        "Services",
+        "Deployment",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which cloud deployment is managed by provider who resides offsite and is accessible to some restricted people?",
+      "incorrect_answers": [
+        "Private cloud",
+        "Community cloud",
+        "Public cloud",
+        "Hybrid cloud"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The number of actors mentioned in the NIST cloud computing reference architecture is",
+      "incorrect_answers": ["4", "5", "6", "7"],
+      "answer": 2
+    }
+  ]
+}

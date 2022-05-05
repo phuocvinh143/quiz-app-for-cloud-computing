@@ -1,0 +1,90 @@
+{
+  "chapter": 15,
+  "data": [
+    {
+      "question": "Content Delivery Network is developed based upon the principle of",
+      "incorrect_answers": [
+        "Delivery management",
+        "Network planning",
+        "Data replication",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The additional content servers in CDN placed at different geographic locations are known as",
+      "incorrect_answers": [
+        "Origin server",
+        "Edge server",
+        "Content server",
+        "Source server"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Partial-site replication policy is followed in CDN while web pages include",
+      "incorrect_answers": [
+        "Only dynamic content",
+        "Only static content",
+        "Static and dynamic content",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "User-requested content is always delivered to users from the origin server of content.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 2
+    },
+    {
+      "question": "Content consumers remain unaware about the use of the CDN service by content providers.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "A content provider can use the services of more than one CDN operator to deliver its content.",
+      "incorrect_answers": [
+        "Not possible",
+        "Possible in some cases",
+        "Always possible",
+        "Depends upon content type"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The placement of edge servers mainly depend on",
+      "incorrect_answers": [
+        "Location of content providers",
+        "Geographic locations of users",
+        "Availability of space",
+        "policy of CDN operator"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Content is automatically distributed to edge servers whenever added to origin server using",
+      "incorrect_answers": [
+        "Push technique",
+        "Pull technique",
+        "Both push and pull techniques",
+        "Distribution technique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following cloud service providers has its own CDN service?",
+      "incorrect_answers": ["Amazon", "Microsoft", "Google", "All of these"],
+      "answer": 4
+    },
+    {
+      "question": "The use of content delivery network is required for",
+      "incorrect_answers": [
+        "Reducing network traffic",
+        "Instantaneous delivery of content",
+        "Server load balancing",
+        "All of these"
+      ],
+      "answer": 4
+    }
+  ]
+}

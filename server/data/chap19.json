@@ -1,0 +1,85 @@
+{
+  "chapter": 19,
+  "data": [
+    {
+      "question": "Which of the cloud deployments provides most economical services?",
+      "incorrect_answers": [
+        "Public cloud",
+        "Hybrid cloud",
+        "Private cloud",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Metering falls under which category of cloud service management?",
+      "incorrect_answers": [
+        "Business support",
+        "Provisioning and configuration",
+        "Portability and interoperability",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Billing falls under which category of cloud service management?",
+      "incorrect_answers": [
+        "Business support",
+        "Provisioning and configuration",
+        "Portability and interoperability",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Vendor-neutral cloud infrastructure management tool can be possible through the standardizations of",
+      "incorrect_answers": [
+        "Cloud services",
+        "Cloud providers",
+        "Infrastructure management APIs",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "CIMI-specified standardized APIs are associated with which level of services?",
+      "incorrect_answers": ["IaaS", "PaaS", "SaaS", "IDaaS"],
+      "answer": 1
+    },
+    {
+      "question": "Service management responsibility of consumer is least at the layer of",
+      "incorrect_answers": ["IaaS", "PaaS", "SaaS", "DBaaS"],
+      "answer": 3
+    },
+    {
+      "question": "The number of phases present in cloud lifecycle management is",
+      "incorrect_answers": ["5", "6", "4", "10"],
+      "answer": 2
+    },
+    {
+      "question": "The number of phases present in SLA lifecycle management is",
+      "incorrect_answers": ["3", "4", "5", "6"],
+      "answer": 3
+    },
+    {
+      "question": "Data backup for recovery in cases of disaster should be maintained for which type(s) of data?",
+      "incorrect_answers": [
+        "Fixed data",
+        "Transient data",
+        "Configuration data",
+        "Persistent data"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which among the following models is not a supported programming model of Aneka cloud?",
+      "incorrect_answers": [
+        "MapReduce programming",
+        "Filter programming",
+        "Task programming",
+        "Thread programming"
+      ],
+      "answer": 2
+    }
+  ]
+}

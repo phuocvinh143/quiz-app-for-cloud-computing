@@ -1,0 +1,105 @@
+{
+  "chapter": 21,
+  "data": [
+    {
+      "question": "Which among the following stands as limitation(s) for mobile computing?",
+      "incorrect_answers": [
+        "Processing capability",
+        "Storage capacity",
+        "Battery power",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Through which technique, the energy conservation can be done in mobile computing?",
+      "incorrect_answers": [
+        "Task offloading",
+        "Data offloading",
+        "Communication offloading",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following cannot be considered as a limitation of mobile computing?",
+      "incorrect_answers": [
+        "Resource at computing device",
+        "Network bandwidth",
+        "Mobility of computing device",
+        "Power of battery"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The resource-rich computing system used for augmenting resources of mobile computing device is referred as",
+      "incorrect_answers": [
+        "Master system",
+        "Surrogate system",
+        "Secondary system",
+        "Server system"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In mobile-cloud computing, which among the following is used in the resource augmentation process?",
+      "incorrect_answers": [
+        "Any non-mobile system",
+        "Mobile cloud server",
+        "Cloud server",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Mobile cloud computing solves which of the following limitation(s) of traditional mobile computing?",
+      "incorrect_answers": [
+        "Resource limitation",
+        "Vendor-lock-in",
+        "Energy limitation",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "When task offloading from one end device to other end devices is done instead of cloud that is called as",
+      "incorrect_answers": [
+        "Mobile computing",
+        "Fog computing",
+        "Internet of Things",
+        "Traditional computing"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is an essential attribute of smart object?",
+      "incorrect_answers": [
+        "High-end processing capability",
+        "Large storage capability",
+        "Fast communication capability",
+        "None of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which among the following contributes most in the emergence of IoT?",
+      "incorrect_answers": [
+        "Cloud computing",
+        "Fog computing",
+        "Smart object",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Smart objects need to have physical existence. This statement is:",
+      "incorrect_answers": ["True", "False"],
+      "answer": 2
+    },
+    {
+      "question": "Which IP addressing standard is suitable for uniquely identifying objects in IoT?",
+      "incorrect_answers": ["IPv4", "IPv6", "Any IP standard", "None of these"],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "chapter": 8,
+  "data": [
+    {
+      "question": "By which kind of hardware components makes cloud computing cost effective at the time of building resource pools?",
+      "incorrect_answers": [
+        "Commodity hardware",
+        "Specialized hardware",
+        "Both a and b",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Resource pools are organized in",
+      "incorrect_answers": [
+        "Heap structure",
+        "Hierarchical structure",
+        "Hash structure",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The traditional approach of having discrete and independent set of resources is known as",
+      "incorrect_answers": [
+        "Warehouse",
+        "Data center",
+        "Silos",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Resource pools at cloud data centers are created with",
+      "incorrect_answers": [
+        "Specialized hardware components",
+        "Commodity hardware components",
+        "Costly hardware components",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Multi-tenancy in cloud computing is powered by",
+      "incorrect_answers": [
+        "Ownership of free resource sharing",
+        "Temporary resource allocation",
+        "Resource allocation in virtual mode",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "In cloud computing, resource provisioning to consumers are made through",
+      "incorrect_answers": [
+        "Physical servers",
+        "Virtual private network",
+        "Virtual machines",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In static provisioning of resources, resource allocation decision is taken",
+      "incorrect_answers": [
+        "Before starting of application",
+        "Any time before and after starting of application",
+        "Only once",
+        "Both a and c"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "In dynamic provisioning of resources, the resource allocation decision can be taken",
+      "incorrect_answers": [
+        "After starting of application",
+        "On-demand",
+        "For number of times",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Dynamic resource provisioning approach eliminates the problem(s) of",
+      "incorrect_answers": [
+        "Resource under-provisioning",
+        "Resource over-provisioning",
+        "Both a and b",
+        "System speed"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Zero downtime system architecture is outcome of",
+      "incorrect_answers": [
+        "Dynamic provisioning",
+        "Multi-tenancy",
+        "Resource sharing",
+        "Resource pooling"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Standardization of cloud environment is done over the",
+      "incorrect_answers": [
+        "Physical resource pool",
+        "Virtualized resource pool",
+        "Individual physical resources",
+        "None of these"
+      ],
+      "answer": 2
+    }
+  ]
+}

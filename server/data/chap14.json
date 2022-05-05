@@ -1,0 +1,80 @@
+{
+  "chapter": 14,
+  "data": [
+    {
+      "question": "Which of the following is not treated as one of the 3-Vs in Big data?",
+      "incorrect_answers": ["Volume", "Velocity", "Volatility", "Variety"],
+      "answer": 3
+    },
+    {
+      "question": "NoSQL databases are designed to process",
+      "incorrect_answers": [
+        "Structured data only",
+        "Unstructured data only",
+        "Both structured and unstructured data",
+        "Big size data"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which of the following organizations has the biggest contribution in NoSQL database development?",
+      "incorrect_answers": ["Apache", "Google", "Amazon", "Facebook"],
+      "answer": 2
+    },
+    {
+      "question": "When a user deploys some database application over cloud server and uses the database, the user actually consumes which type of cloud service?",
+      "incorrect_answers": ["DBaaS", "SaaS", "PaaS", "IaaS"],
+      "answer": 1
+    },
+    {
+      "question": "The performance issue for relational database while volume of data becomes huge basically arises because its architecture does not support",
+      "incorrect_answers": [
+        "Horizontal scalability",
+        "Vertical scalability",
+        "BASE theorem",
+        "CAP theorem"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "NoSQL databases can scale",
+      "incorrect_answers": [
+        "Horizontally",
+        "Vertically",
+        "Both horizontally and vertically",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Instead of strictly following ACID properties, many NoSQL databases follow",
+      "incorrect_answers": [
+        "CAP theorem",
+        "BASE theorem",
+        "NoSQL theorem",
+        "Big data theorem"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "As per BASE theorem, consistency of data may not reflect instantly after transaction",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following goes along the relational DBaaS model?",
+      "incorrect_answers": [
+        "Amazon RDS",
+        "Oracle Server",
+        "HBase",
+        "Amazon S3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "NoSQL database Cassandra was initially developed by",
+      "incorrect_answers": ["Google", "Amazon", "Apache", "Facebook"],
+      "answer": 4
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "chapter": 20,
+  "data": [
+    {
+      "question": "Amazon Web Services is which type of cloud computing distribution model?",
+      "incorrect_answers": ["IaaS", "PaaS", "SaaS", "All of these"],
+      "answer": 1
+    },
+    {
+      "question": "Azure is which type of cloud computing distribution model?",
+      "incorrect_answers": ["IaaS", "PaaS", "SaaS", "All of these"],
+      "answer": 2
+    },
+    {
+      "question": "Google’s cloud service offering for launching virtual machine is",
+      "incorrect_answers": [
+        "Elastic Compute Cloud",
+        "Azure VM",
+        "Compute Engine",
+        "App Engine"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Microsoft’s cloud service offering for Big Data solution is",
+      "incorrect_answers": ["DynamoDB", "DocumentDB", "BigQuery", "SimpleDB"],
+      "answer": 2
+    },
+    {
+      "question": "The service offered by Azure cloud for Big Data analysis is,",
+      "incorrect_answers": [
+        "HDInsight",
+        "Elastic MapReduce",
+        "BigQuery",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "OneDrive storage facility offered by Microsoft Azure is a",
+      "incorrect_answers": ["IaaS", "PaaS", "SaaS", "None of these"],
+      "answer": 3
+    },
+    {
+      "question": "Which hypervisor is used by AWS for its data center resource visualization?",
+      "incorrect_answers": ["Hyper-V", "KVM", "VMware’s ESX", "Xen"],
+      "answer": 4
+    },
+    {
+      "question": "Which of the storage services of Google is comparable with Azure OneDrive?",
+      "incorrect_answers": [
+        "Google Cloud Storage",
+        "Google Drive",
+        "Google Cloud Data store",
+        "All of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Google Cloud Storage and Google Drive are respectively",
+      "incorrect_answers": [
+        "IaaS and IaaS",
+        "IaaS and PaaS",
+        "SaaS and IaaS",
+        "IaaS and SaaS"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which among the storages of AWS is the home for general purpose EC2 instances?",
+      "incorrect_answers": [
+        "Solid-state device",
+        "Simple Storage System",
+        "Elastic Block Storage",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Azure Hypervisor is a customized version of which among the following?",
+      "incorrect_answers": ["Hyper-V", "Xen", "VMware’s ESX", "KVM"],
+      "answer": 1
+    }
+  ]
+}

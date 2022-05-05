@@ -1,0 +1,110 @@
+{
+  "chapter": 10,
+  "data": [
+    {
+      "question": "Cloud Computing concept of delivering infinite resource is achieved by",
+      "incorrect_answers": [
+        "Maintaining a huge pool of resources",
+        "Workload management",
+        "Proper capacity planning",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Over-provisioning of resources in traditional way of capacity planning causes",
+      "incorrect_answers": [
+        "Performance degradation",
+        "Loss of reputation",
+        "Performance enhancement",
+        "Wastage of budget"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Under-provisioning of resources in traditional way of capacity planning may cause",
+      "incorrect_answers": [
+        "Auto-scaling",
+        "Loss of reputation",
+        "Performance enhancement",
+        "Budget saving"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Availability of infinite resource on-demand in cloud computing is actually an illusion",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Unlike following N + 1 rule of capacity maintenance, cloud service consumers enjoy which among the following facility in capacity maintenance",
+      "incorrect_answers": [
+        "N + X rule",
+        "N rule",
+        "Infinite resource",
+        "Auto-scaling"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Resource utilization curve represents",
+      "incorrect_answers": [
+        "Average resource utilization",
+        "Total volume of system resources",
+        "Resource utilization under load",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "When resource utilization reaches ceiling, that limit is called",
+      "incorrect_answers": [
+        "Stress point",
+        "Limiting point",
+        "End point",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Unlike traditional computing, capacity planning is no more required to avail computing facility in cloud",
+      "incorrect_answers": [
+        "True",
+        "Required, but much easier",
+        "Required, but less risky",
+        "Both b and c"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Before capacity enhancement of an application, the capacity planner should know about",
+      "incorrect_answers": [
+        "Cost of the additional resources",
+        "Value of the added capacity in business",
+        "How much resource is required",
+        "Both a and c"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "IaaS consumers in cloud, do the capacity planning with",
+      "incorrect_answers": [
+        "Virtual resources",
+        "Physical resources",
+        "Both physical and virtual resources",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the relation of capacity of system with its performance?",
+      "incorrect_answers": [
+        "Proportional",
+        "Reverse",
+        "Similar",
+        "None of these"
+      ],
+      "answer": 1
+    }
+  ]
+}

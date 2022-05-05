@@ -1,0 +1,110 @@
+{
+  "chapter": 5,
+  "data": [
+    {
+      "question": "Which cloud service is considered as the most widely used?",
+      "incorrect_answers": [
+        "Infrastructure-as-a-Service",
+        "Platform-as-a-Service",
+        "Software-as-a-Service",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which cloud service is known as Hardware-as-a-Service also?",
+      "incorrect_answers": [
+        "Infrastructure-as-a-Service",
+        "Platform-as-a-Service",
+        "Software-as-a-Service",
+        "Desktop-as-a-Service"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following describes a distribution model in which applications are hosted by a service provider and made available to users?",
+      "incorrect_answers": [
+        "Infrastructure-as-a-Service",
+        "Platform-as-a-Service",
+        "Software-as-a-Service",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Virtual machine in Rackspace cloud is called",
+      "incorrect_answers": [
+        "Rackspace Server",
+        "Cloud Server",
+        "RackVM",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Identify the odd one",
+      "incorrect_answers": [
+        "Microsoft Azure",
+        "Google App Engine",
+        "Force.com",
+        "Amazon EC2"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "In IaaS, computing resources are delivered to the consumers",
+      "incorrect_answers": [
+        "Through remote access",
+        "Through distribution",
+        "In virtualized form",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which is not considered as one of the three main categories of cloud services?",
+      "incorrect_answers": [
+        "Software-as-a-Service",
+        "Database-as-a-Service",
+        "Platform-as-a-Service",
+        "Infrastructure-as-a-Service"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which cloud computing service model delivers computer, storage, and network to consumers?",
+      "incorrect_answers": [
+        "Infrastructure-as-a-Service",
+        "Platform-as-a-Service",
+        "Software-as-a-Service",
+        "All of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Retaining with traditional computing environment costs more compared to using cloud computing.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Name of the Open-source cloud computing PaaS facility originally developed by VMWare as",
+      "incorrect_answers": [
+        "VMWare platform",
+        "Cloud foundry",
+        "VMW-PaaS",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Eucalyptus, Nebula, Nimbus, CloudStack, VLC are few examples of",
+      "incorrect_answers": [
+        "Open-source cloud services",
+        "Closed source cloud services",
+        "Proprietary cloud services",
+        "Free cloud services"
+      ],
+      "answer": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "chapter": 1,
+  "data": [
+    {
+      "question": "Which of the following is not a limitation of traditional computing approach?",
+      "incorrect_answers": [
+        "Huge initial investment",
+        "Hardware-system management responsibility",
+        "Partial utilization of resources",
+        "None of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which of the following is an advantage of cloud computing approach?",
+      "incorrect_answers": [
+        "It is ubiquitous",
+        "Enabled by pay-for-usage model",
+        "Responsiveness",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Access to a Cloud environment it costs more money compared to a traditional environment.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 2
+    },
+    {
+      "question": "A Cloud environment can be accessed from anywhere in the world as long as the user has access to the Internet.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Which one of the following is the standard cloud computing pricing model?",
+      "incorrect_answers": [
+        "Free",
+        "Pay-per-usage",
+        "Licensing basis",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Cloud computing makes a business more",
+      "incorrect_answers": ["Dynamic", "Strong", "Profitable", "Simple"],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following is a feature of utility service?",
+      "incorrect_answers": [
+        "24/7 availability",
+        "Unlimited access",
+        "Metering",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A computing system is composed of three facility layers. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Which among the following is not considered as a layer in computing system?",
+      "incorrect_answers": [
+        "Application",
+        "Server",
+        "Infrastructure",
+        "Platform"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Computing network facility falls under which layer of computing?",
+      "incorrect_answers": [
+        "Application",
+        "Platform",
+        "Infrastructure",
+        "Both b and c"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Is the IT outsourcing model of traditional computing similar to cloud computing?",
+      "incorrect_answers": [
+        "Yes",
+        "Not at all",
+        "To some extent",
+        "Depends on the requirement"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the main advantage of utility computing compared to traditional computing?",
+      "incorrect_answers": [
+        "Less difficulty",
+        "Better security",
+        "Economical",
+        "Availability"
+      ],
+      "answer": 3
+    }
+  ]
+}

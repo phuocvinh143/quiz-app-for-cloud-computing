@@ -1,0 +1,100 @@
+{
+  "chapter": 3,
+  "data": [
+    {
+      "question": "Utility model of computing is beneficial for",
+      "incorrect_answers": [
+        "Users of computing",
+        "Vendors of computing",
+        "Both a and b",
+        "None"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The term ‘cloud computing’ was first presented in its current meaning in the year of",
+      "incorrect_answers": ["1999", "2006", "2008", "2010"],
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is/are feature(s) of utility service model?",
+      "incorrect_answers": [
+        "Metering",
+        "Billing",
+        "On-demand service availability",
+        "All of these "
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which among the following companies was first to successfully adopt utility computing model for enterprises?",
+      "incorrect_answers": ["Amazon", "Salesforce.com", "IBM", "Google"],
+      "answer": 2
+    },
+    {
+      "question": "Heterogeneous software applications communicate over the internet using",
+      "incorrect_answers": [
+        "HTML",
+        "Message passing",
+        "Web services",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Presently, the web services are categorized as",
+      "incorrect_answers": [
+        "SOAP & REST",
+        "SOAP & RPC",
+        "REST & RMI",
+        "REST & CORBA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "REST is considered as the light-weight alternative of SOAP since it can avoid",
+      "incorrect_answers": [
+        "the use of global identifier for resources",
+        "the use of JSON for message passing",
+        "the use of XML for message passing",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Use of REST-compliant web services results in longer development time than using of SOAP-based web services in cloud computing development. This statement is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "REST is a/an",
+      "incorrect_answers": [
+        "Message communication protocol",
+        "Architectural style",
+        "Web architecture",
+        "Cloud type"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is not a benefit of cloud computing?",
+      "incorrect_answers": [
+        "Low initial investment",
+        "Fixed cost of computing",
+        "Access through internet",
+        "High-performance computing"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which among the following is not considered as an inherent nature of cloud computing?",
+      "incorrect_answers": [
+        "Flexibility",
+        "Elasticity",
+        "Scalability",
+        "Portability"
+      ],
+      "answer": 4
+    }
+  ]
+}

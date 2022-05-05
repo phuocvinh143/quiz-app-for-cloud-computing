@@ -1,0 +1,105 @@
+{
+  "chapter": 16,
+  "data": [
+    {
+      "question": "In which type of cloud service consumers have most of the security responsibilities?",
+      "incorrect_answers": ["IaaS", "PaaS", "SaaS", "Same in all of these"],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is done through Identity management?",
+      "incorrect_answers": [
+        "Preventing unauthorized use",
+        "controlling access to data in the cloud",
+        "Maintaining user roles",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which document works as the reference for both the service provider and consumer in case of any security dispute in cloud?",
+      "incorrect_answers": [
+        "Project agreement document",
+        "Service level agreement",
+        "Security agreement document",
+        "All of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "By running over which application, the PaaS consumers can access the abstraction layer?",
+      "incorrect_answers": [
+        "Using APIs",
+        "Using direct calls",
+        "Using programs",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "From consumer’s end, who must review the SLA document before making the final agreement?",
+      "incorrect_answers": [
+        "Legal expert",
+        "Business expert",
+        "Technical expert",
+        "All of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Who among the following from enterprise’s behalf must review the SLA document to ensure security in cloud?",
+      "incorrect_answers": [
+        "Legal expert",
+        "Business expert",
+        "Technical expert",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Security management responsibilities of SaaS application consumers include managing of",
+      "incorrect_answers": [
+        "Application security management",
+        "Platform security management",
+        "Operational security management",
+        "All of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Security management responsibilities of PaaS application consumers include managing of",
+      "incorrect_answers": [
+        "Application security management",
+        "Operational security management",
+        "Platform security management",
+        "Both a and b"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Covert channel problem is a threat to",
+      "incorrect_answers": [
+        "Information confidentiality",
+        "Integrity of information",
+        "Information availability",
+        "All of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Identification and access management plays the vital roles in cloud computing as",
+      "incorrect_answers": [
+        "Anyone can work in cloud.",
+        "Consumers work outside trusted network boundary.",
+        "Virtualization brings the vulnerability.",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Tell the statement if True or False. ‘In federated identity system, the user credentials are stored in one application only.’",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    }
+  ]
+}

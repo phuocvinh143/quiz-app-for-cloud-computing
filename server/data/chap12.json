@@ -1,0 +1,100 @@
+{
+  "chapter": 12,
+  "data": [
+    {
+      "question": "Which of the following design principles does SOA promote?",
+      "incorrect_answers": [
+        "Low coupling",
+        "High coupling",
+        "Low cohesion",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which element of a service remains hidden from the consumers?",
+      "incorrect_answers": [
+        "Contract",
+        "Interface",
+        "Implementation",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Cloud computing and SOA can run separately but together they empower one another.",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "Benefits of using SOA paradigm include",
+      "incorrect_answers": [
+        "Easier maintenance",
+        "Increased flexibility",
+        "Reduced cost",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Service registry in SOA paradigm is maintained by",
+      "incorrect_answers": [
+        "Service provider",
+        "Service broker",
+        "Service consumer",
+        "Service designer"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Connection between services in SOA paradigm is done through",
+      "incorrect_answers": [
+        "Message passing",
+        "Remote method invocation",
+        "Functional call",
+        "None of these"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Use of variety of technologies for application development across heterogeneous systems in cloud computing makes the interoperation among the applications quite challenging without properly",
+      "incorrect_answers": [
+        "Designed system",
+        "Standardized communication",
+        "Open-source implementation",
+        "None of these"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Technological inter-dependency of two communication software agents in SOA paradigm has been eliminated by",
+      "incorrect_answers": [
+        "Use of SOAP",
+        "Use of service registry",
+        "Standardized message communication technique",
+        "None of these"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In cloud computing, SOA paradigm is used to",
+      "incorrect_answers": [
+        "Build dynamic cloud infrastructure",
+        "Deliver the services",
+        "Build the application",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Service contract once published should not be changed ever because",
+      "incorrect_answers": [
+        "Provider can never know who are already using the service",
+        "It is a complex task",
+        "Service implementation is unalterable",
+        "All of these"
+      ],
+      "answer": 1
+    }
+  ]
+}

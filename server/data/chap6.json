@@ -1,0 +1,95 @@
+{
+  "chapter": 6,
+  "data": [
+    {
+      "question": "What is the name of the organization majorly helping to foster security standards for cloud computing?",
+      "incorrect_answers": [
+        "NIST",
+        "Cloud Security WatchDog",
+        "Cloud Security Alliance",
+        "Open Cloud Consortium"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "‘Perimeter’ in the peremeterized computing environment is represented by",
+      "incorrect_answers": [
+        "Organization’s physical boundary",
+        "In-house data center boundary",
+        "IP addresses",
+        "Network firewalls"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "On how many elements of cloud security model it was focused in Gartner’s report titled as ‘Assessing the Security Risks of Cloud Computing’ published in 2008?",
+      "incorrect_answers": ["6", "7", "8", "None of these"],
+      "answer": 2
+    },
+    {
+      "question": "Who proposed the globally-accepted model for cloud security?",
+      "incorrect_answers": [
+        "Cloud Security Alliance",
+        "Jericho Forum group",
+        "NIST",
+        "Object Management Group (OMG)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Into how many visible cubes, the model cube was divided in Jericho Forum’s security model?",
+      "incorrect_answers": ["8", "16", "4", "32"],
+      "answer": 1
+    },
+    {
+      "question": "How many dimensions exist in Cloud Cube Model?",
+      "incorrect_answers": ["1", "2", "3", "4"],
+      "answer": 4
+    },
+    {
+      "question": "Which among of the following security policies demands special attention in cloud computing?",
+      "incorrect_answers": [
+        "Data security policy",
+        "Security management policy",
+        "Advisory policy",
+        "Regulatory policy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which among of the four dimensions of the cloud cube model is represented by the colour?",
+      "incorrect_answers": [
+        "Data Boundary",
+        "Ownership",
+        "Security Boundary",
+        "Sourcing"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "De-perimeterization in computing promotes",
+      "incorrect_answers": [
+        "Outsourcing",
+        "Use of open technology",
+        "Collaboration",
+        "All of these"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The statement ‘Internal data source can be used in de-perimeterized computing environment’ is",
+      "incorrect_answers": ["True", "False"],
+      "answer": 1
+    },
+    {
+      "question": "In traditional perimeterized computing environment, collaboration with external systems are established through",
+      "incorrect_answers": [
+        "Virtual private network technique",
+        "Virtual drive technique",
+        "De-perimeterization technique",
+        "None of these"
+      ],
+      "answer": 1
+    }
+  ]
+}
